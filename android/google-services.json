@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "26211597470",
+    "firebase_url": "https://hedge-coon-fixed.firebaseio.com",
+    "project_id": "hedge-coon-fixed",
+    "storage_bucket": "hedge-coon-fixed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26211597470:android:cb561dc5b13d8486",
+        "android_client_info": {
+          "package_name": "com.hedgecoon.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26211597470-hv82ag7cimr53sice1gjb7kgsm42ps87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hedgecoon.game",
+            "certificate_hash": "47794EBE5A8BCDFF5958D0BA1EA733940092738B"
+          }
+        },
+        {
+          "client_id": "26211597470-hp8udk3p8kfa1q8b0kbp02003imhlflj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNVOgSI5GjaukYfJGAYfFZzLMeM9Lg5S4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26211597470-hp8udk3p8kfa1q8b0kbp02003imhlflj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

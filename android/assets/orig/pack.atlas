@@ -1,0 +1,536 @@
+
+pack.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG3
+  rotate: false
+  xy: 920, 6
+  size: 987, 725
+  orig: 987, 725
+  offset: 0, 0
+  index: -1
+BG4
+  rotate: false
+  xy: 2, 1203
+  size: 1726, 841
+  orig: 1726, 841
+  offset: 0, 0
+  index: -1
+airfire4
+  rotate: false
+  xy: 1564, 737
+  size: 118, 156
+  orig: 118, 156
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 709, 50
+  size: 177, 154
+  orig: 177, 154
+  offset: 0, 0
+  index: -1
+border
+  rotate: false
+  xy: 2013, 1349
+  size: 13, 7
+  split: 2, 2, 1, 1
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+buy
+  rotate: false
+  xy: 1730, 1278
+  size: 281, 78
+  split: 45, 47, 0, 78
+  orig: 281, 78
+  offset: 0, 0
+  index: -1
+cup
+  rotate: false
+  xy: 1909, 613
+  size: 132, 118
+  orig: 132, 118
+  offset: 0, 0
+  index: -1
+gliderIcon
+  rotate: false
+  xy: 1138, 745
+  size: 129, 77
+  orig: 129, 77
+  offset: 0, 0
+  index: -1
+gradesGlider
+  rotate: false
+  xy: 2, 2
+  size: 474, 202
+  orig: 474, 202
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 1909, 387
+  size: 116, 102
+  orig: 116, 102
+  offset: 0, 0
+  index: -1
+languageButton
+  rotate: false
+  xy: 1564, 895
+  size: 146, 130
+  orig: 146, 130
+  offset: 0, 0
+  index: -1
+mstage1
+  rotate: false
+  xy: 920, 734
+  size: 216, 467
+  orig: 216, 467
+  offset: 0, 0
+  index: -1
+mstage10
+  rotate: false
+  xy: 1730, 1358
+  size: 295, 266
+  orig: 295, 266
+  offset: 0, 0
+  index: -1
+mstage2
+  rotate: false
+  xy: 1138, 824
+  size: 241, 377
+  orig: 241, 377
+  offset: 0, 0
+  index: -1
+mstage3
+  rotate: false
+  xy: 1730, 733
+  size: 270, 543
+  orig: 270, 543
+  offset: 0, 0
+  index: -1
+mstage6
+  rotate: false
+  xy: 1730, 1626
+  size: 300, 418
+  orig: 300, 418
+  offset: 0, 0
+  index: -1
+mstage9
+  rotate: false
+  xy: 1381, 753
+  size: 181, 272
+  orig: 181, 272
+  offset: 0, 0
+  index: -1
+restart
+  rotate: false
+  xy: 1909, 491
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+rope5
+  rotate: false
+  xy: 2013, 1331
+  size: 8, 16
+  split: 0, 8, 7, 7
+  pad: -1, -1, 7, 7
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 709, 11
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+soundoff
+  rotate: false
+  xy: 1909, 155
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+soundon
+  rotate: false
+  xy: 1909, 53
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+spoder T4
+  rotate: false
+  xy: 2, 206
+  size: 916, 995
+  orig: 916, 995
+  offset: 0, 0
+  index: -1
+touchedOptions
+  rotate: false
+  xy: 478, 2
+  size: 229, 202
+  orig: 229, 202
+  offset: 0, 0
+  index: -1
+upgrArrow
+  rotate: false
+  xy: 1909, 257
+  size: 115, 128
+  orig: 115, 128
+  offset: 0, 0
+  index: -1
+web
+  rotate: false
+  xy: 2002, 878
+  size: 23, 398
+  orig: 23, 398
+  offset: 0, 0
+  index: -1
+webhedge
+  rotate: false
+  xy: 1269, 751
+  size: 109, 71
+  orig: 109, 71
+  offset: 0, 0
+  index: -1
+webobstacle
+  rotate: false
+  xy: 1381, 1027
+  size: 321, 174
+  orig: 321, 174
+  offset: 0, 0
+  index: -1
+
+pack2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: false
+  xy: 545, 4
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 2, 2
+  size: 244, 244
+  orig: 244, 244
+  offset: 0, 0
+  index: -1
+fonWeb2
+  rotate: false
+  xy: 920, 19
+  size: 1057, 800
+  orig: 1057, 800
+  offset: 0, 0
+  index: -1
+gradesKunai
+  rotate: false
+  xy: 920, 1018
+  size: 495, 225
+  orig: 495, 225
+  offset: 0, 0
+  index: -1
+hedge
+  rotate: false
+  xy: 1357, 951
+  size: 80, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+kunai2
+  rotate: false
+  xy: 1357, 837
+  size: 75, 112
+  orig: 75, 112
+  offset: 0, 0
+  index: -1
+lastscore
+  rotate: false
+  xy: 480, 2
+  size: 63, 63
+  split: 28, 29, 28, 29
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+markerButton2
+  rotate: false
+  xy: 248, 16
+  size: 230, 230
+  split: 0, 130, 0, 0
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+spoder T4 static
+  rotate: false
+  xy: 1440, 1433
+  size: 564, 610
+  orig: 564, 610
+  offset: 0, 0
+  index: -1
+spoder-T4
+  rotate: false
+  xy: 2, 248
+  size: 916, 995
+  orig: 916, 995
+  offset: 0, 0
+  index: -1
+spoder-T4-static
+  rotate: false
+  xy: 1440, 821
+  size: 564, 610
+  orig: 564, 610
+  offset: 0, 0
+  index: -1
+tomb
+  rotate: false
+  xy: 2, 1245
+  size: 1436, 798
+  orig: 1436, 798
+  offset: 0, 0
+  index: -1
+upgrade
+  rotate: false
+  xy: 920, 837
+  size: 435, 179
+  orig: 435, 179
+  offset: 0, 0
+  index: -1
+upgrade2
+  rotate: false
+  xy: 480, 67
+  size: 435, 179
+  orig: 435, 179
+  offset: 0, 0
+  index: -1
+
+pack3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG1
+  rotate: false
+  xy: 2, 1126
+  size: 1179, 897
+  orig: 1179, 897
+  offset: 0, 0
+  index: -1
+BG2
+  rotate: false
+  xy: 2, 272
+  size: 1121, 852
+  orig: 1121, 852
+  offset: 0, 0
+  index: -1
+clocks2
+  rotate: false
+  xy: 1879, 485
+  size: 88, 98
+  orig: 88, 98
+  offset: 0, 0
+  index: -1
+coonCoins
+  rotate: false
+  xy: 1183, 1323
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+gradesClocks
+  rotate: false
+  xy: 2, 2
+  size: 458, 268
+  orig: 458, 268
+  offset: 0, 0
+  index: -1
+gradesSmoke
+  rotate: false
+  xy: 462, 50
+  size: 367, 220
+  orig: 367, 220
+  offset: 0, 0
+  index: -1
+help1
+  rotate: false
+  xy: 1183, 688
+  size: 752, 633
+  orig: 752, 633
+  offset: 0, 0
+  index: -1
+help2
+  rotate: false
+  xy: 1125, 53
+  size: 752, 633
+  orig: 752, 633
+  offset: 0, 0
+  index: -1
+helpButton
+  rotate: false
+  xy: 1937, 914
+  size: 83, 124
+  orig: 83, 124
+  offset: 0, 0
+  index: -1
+highscores4
+  rotate: false
+  xy: 1885, 1810
+  size: 97, 213
+  split: 37, 38, 174, 35
+  pad: 37, 39, 157, 38
+  orig: 97, 213
+  offset: 0, 0
+  index: -1
+markerButton
+  rotate: false
+  xy: 831, 42
+  size: 228, 228
+  split: 134, 0, 0, 0
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+next
+  rotate: false
+  xy: 1937, 704
+  size: 91, 102
+  orig: 91, 102
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 1879, 386
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+resume
+  rotate: false
+  xy: 1879, 585
+  size: 91, 101
+  orig: 91, 101
+  offset: 0, 0
+  index: -1
+smokeIcon2
+  rotate: false
+  xy: 1937, 808
+  size: 90, 104
+  orig: 90, 104
+  offset: 0, 0
+  index: -1
+spikes
+  rotate: false
+  xy: 1937, 1040
+  size: 102, 768
+  orig: 102, 768
+  offset: 0, 0
+  index: -1
+
+pack4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cocoonspike
+  rotate: false
+  xy: 1510, 473
+  size: 112, 797
+  orig: 112, 797
+  offset: 0, 0
+  index: -1
+help3
+  rotate: false
+  xy: 2, 679
+  size: 752, 633
+  orig: 752, 633
+  offset: 0, 0
+  index: -1
+help4
+  rotate: false
+  xy: 2, 44
+  size: 752, 633
+  orig: 752, 633
+  offset: 0, 0
+  index: -1
+help5
+  rotate: false
+  xy: 980, 1272
+  size: 752, 633
+  orig: 752, 633
+  offset: 0, 0
+  index: -1
+help6
+  rotate: false
+  xy: 756, 637
+  size: 752, 633
+  orig: 752, 633
+  offset: 0, 0
+  index: -1
+help7
+  rotate: false
+  xy: 756, 2
+  size: 752, 633
+  orig: 752, 633
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 1314
+  size: 976, 591
+  orig: 976, 591
+  offset: 0, 0
+  index: -1
+mstage4
+  rotate: false
+  xy: 1624, 406
+  size: 187, 321
+  orig: 187, 321
+  offset: 0, 0
+  index: -1
+mstage5
+  rotate: false
+  xy: 1624, 729
+  size: 370, 541
+  orig: 370, 541
+  offset: 0, 0
+  index: -1
+mstage7
+  rotate: false
+  xy: 1734, 1281
+  size: 202, 304
+  orig: 202, 304
+  offset: 0, 0
+  index: -1
+mstage8
+  rotate: false
+  xy: 1734, 1587
+  size: 207, 318
+  orig: 207, 318
+  offset: 0, 0
+  index: -1
+plannerColoredDeformed3
+  rotate: false
+  xy: 1813, 587
+  size: 233, 140
+  orig: 233, 140
+  offset: 0, 0
+  index: -1
+
+pack5.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cocoonSpikeWeb
+  rotate: false
+  xy: 2, 2
+  size: 669, 297
+  orig: 669, 297
+  offset: 0, 0
+  index: -1

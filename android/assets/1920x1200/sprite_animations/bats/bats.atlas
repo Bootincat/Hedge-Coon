@@ -1,0 +1,83 @@
+
+bats.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bats-000
+  rotate: false
+  xy: 2, 2
+  size: 129, 44
+  orig: 129, 44
+  offset: 0, 0
+  index: -1
+bats-001
+  rotate: false
+  xy: 2, 2
+  size: 129, 44
+  orig: 129, 44
+  offset: 0, 0
+  index: -1
+bats-002
+  rotate: false
+  xy: 2, 2
+  size: 129, 44
+  orig: 129, 44
+  offset: 0, 0
+  index: -1
+bats-003
+  rotate: false
+  xy: 133, 2
+  size: 129, 44
+  orig: 129, 44
+  offset: 0, 0
+  index: -1
+bats-004
+  rotate: false
+  xy: 133, 2
+  size: 129, 44
+  orig: 129, 44
+  offset: 0, 0
+  index: -1
+bats-005
+  rotate: false
+  xy: 133, 2
+  size: 129, 44
+  orig: 129, 44
+  offset: 0, 0
+  index: -1
+bats-009
+  rotate: false
+  xy: 133, 2
+  size: 129, 44
+  orig: 129, 44
+  offset: 0, 0
+  index: -1
+bats-010
+  rotate: false
+  xy: 133, 2
+  size: 129, 44
+  orig: 129, 44
+  offset: 0, 0
+  index: -1
+bats-006
+  rotate: false
+  xy: 264, 2
+  size: 129, 44
+  orig: 129, 44
+  offset: 0, 0
+  index: -1
+bats-007
+  rotate: false
+  xy: 264, 2
+  size: 129, 44
+  orig: 129, 44
+  offset: 0, 0
+  index: -1
+bats-008
+  rotate: false
+  xy: 264, 2
+  size: 129, 44
+  orig: 129, 44
+  offset: 0, 0
+  index: -1

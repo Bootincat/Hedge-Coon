@@ -1,0 +1,62 @@
+
+paws.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paws-000
+  rotate: false
+  xy: 2, 2
+  size: 116, 83
+  orig: 116, 83
+  offset: 0, 0
+  index: -1
+paws-001
+  rotate: false
+  xy: 120, 2
+  size: 116, 83
+  orig: 116, 83
+  offset: 0, 0
+  index: -1
+paws-002
+  rotate: false
+  xy: 238, 2
+  size: 116, 83
+  orig: 116, 83
+  offset: 0, 0
+  index: -1
+paws-003
+  rotate: false
+  xy: 356, 2
+  size: 116, 83
+  orig: 116, 83
+  offset: 0, 0
+  index: -1
+paws-004
+  rotate: false
+  xy: 474, 2
+  size: 116, 83
+  orig: 116, 83
+  offset: 0, 0
+  index: -1
+paws-005
+  rotate: false
+  xy: 592, 2
+  size: 116, 83
+  orig: 116, 83
+  offset: 0, 0
+  index: -1
+paws-006
+  rotate: false
+  xy: 710, 2
+  size: 116, 83
+  orig: 116, 83
+  offset: 0, 0
+  index: -1
+paws-007
+  rotate: false
+  xy: 828, 2
+  size: 116, 83
+  orig: 116, 83
+  offset: 0, 0
+  index: -1

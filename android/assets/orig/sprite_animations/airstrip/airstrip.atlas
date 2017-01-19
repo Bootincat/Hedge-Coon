@@ -1,0 +1,206 @@
+
+airstrip.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+airstrip-000
+  rotate: false
+  xy: 1, 937
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-001
+  rotate: false
+  xy: 1, 865
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-002
+  rotate: false
+  xy: 1, 793
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-003
+  rotate: false
+  xy: 1, 721
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-004
+  rotate: false
+  xy: 1, 649
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-005
+  rotate: false
+  xy: 1, 577
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-006
+  rotate: false
+  xy: 1, 505
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-007
+  rotate: false
+  xy: 1, 433
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-008
+  rotate: false
+  xy: 1, 361
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-009
+  rotate: false
+  xy: 1, 289
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-010
+  rotate: false
+  xy: 1, 217
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-011
+  rotate: false
+  xy: 1, 145
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-012
+  rotate: false
+  xy: 1, 73
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-013
+  rotate: false
+  xy: 1, 1
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+
+airstrip2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+airstrip-014
+  rotate: false
+  xy: 1, 937
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-015
+  rotate: false
+  xy: 1, 865
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-016
+  rotate: false
+  xy: 1, 793
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-017
+  rotate: false
+  xy: 1, 721
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-018
+  rotate: false
+  xy: 1, 649
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-019
+  rotate: false
+  xy: 1, 577
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-020
+  rotate: false
+  xy: 1, 505
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-021
+  rotate: false
+  xy: 1, 433
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-022
+  rotate: false
+  xy: 1, 361
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-023
+  rotate: false
+  xy: 1, 289
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-024
+  rotate: false
+  xy: 1, 217
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-025
+  rotate: false
+  xy: 1, 145
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-026
+  rotate: false
+  xy: 1, 73
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1
+airstrip-027
+  rotate: false
+  xy: 1, 1
+  size: 512, 70
+  orig: 512, 70
+  offset: 0, 0
+  index: -1

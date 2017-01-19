@@ -1,0 +1,511 @@
+
+pack.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG1
+  rotate: false
+  xy: 349, 330
+  size: 236, 179
+  orig: 236, 179
+  offset: 0, 0
+  index: -1
+BG2
+  rotate: false
+  xy: 2, 7
+  size: 224, 170
+  orig: 224, 170
+  offset: 0, 0
+  index: -1
+BG3
+  rotate: false
+  xy: 1170, 364
+  size: 197, 145
+  orig: 197, 145
+  offset: 0, 0
+  index: -1
+BG4
+  rotate: false
+  xy: 2, 341
+  size: 345, 168
+  orig: 345, 168
+  offset: 0, 0
+  index: -1
+airfire4
+  rotate: false
+  xy: 765, 316
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 436, 77
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 1478, 229
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+border
+  rotate: false
+  xy: 1521, 382
+  size: 13, 7
+  split: 2, 2, 1, 1
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 380, 26
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+buy
+  rotate: false
+  xy: 512, 97
+  size: 56, 16
+  split: 9, 10, 0, 0
+  orig: 56, 16
+  offset: 0, 0
+  index: -1
+clocks2
+  rotate: false
+  xy: 1639, 236
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+cocoonSpikeWeb
+  rotate: false
+  xy: 1751, 321
+  size: 134, 59
+  orig: 134, 59
+  offset: 0, 0
+  index: -1
+cocoonspike
+  rotate: false
+  xy: 2022, 350
+  size: 22, 159
+  orig: 22, 159
+  offset: 0, 0
+  index: -1
+coonCoins
+  rotate: false
+  xy: 291, 188
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+cup
+  rotate: false
+  xy: 574, 109
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+fonWeb2
+  rotate: false
+  xy: 587, 349
+  size: 211, 160
+  orig: 211, 160
+  offset: 0, 0
+  index: -1
+gliderIcon
+  rotate: false
+  xy: 630, 217
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+gradesClocks
+  rotate: false
+  xy: 1751, 265
+  size: 92, 54
+  orig: 92, 54
+  offset: 0, 0
+  index: -1
+gradesGlider
+  rotate: false
+  xy: 228, 8
+  size: 95, 40
+  orig: 95, 40
+  offset: 0, 0
+  index: -1
+gradesKunai
+  rotate: false
+  xy: 1887, 335
+  size: 99, 45
+  orig: 99, 45
+  offset: 0, 0
+  index: -1
+gradesSmoke
+  rotate: false
+  xy: 680, 265
+  size: 73, 44
+  orig: 73, 44
+  offset: 0, 0
+  index: -1
+hedge
+  rotate: false
+  xy: 585, 201
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+help1
+  rotate: false
+  xy: 1566, 382
+  size: 150, 127
+  orig: 150, 127
+  offset: 0, 0
+  index: -1
+help2
+  rotate: false
+  xy: 1718, 382
+  size: 150, 127
+  orig: 150, 127
+  offset: 0, 0
+  index: -1
+help3
+  rotate: false
+  xy: 1870, 382
+  size: 150, 127
+  orig: 150, 127
+  offset: 0, 0
+  index: -1
+help4
+  rotate: false
+  xy: 433, 201
+  size: 150, 127
+  orig: 150, 127
+  offset: 0, 0
+  index: -1
+help5
+  rotate: false
+  xy: 1170, 235
+  size: 150, 127
+  orig: 150, 127
+  offset: 0, 0
+  index: -1
+help6
+  rotate: false
+  xy: 228, 50
+  size: 150, 127
+  orig: 150, 127
+  offset: 0, 0
+  index: -1
+help7
+  rotate: false
+  xy: 1369, 262
+  size: 150, 127
+  orig: 150, 127
+  offset: 0, 0
+  index: -1
+helpButton
+  rotate: false
+  xy: 1991, 310
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+highscores4
+  rotate: false
+  xy: 1988, 337
+  size: 19, 43
+  split: 7, 8, 34, 7
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 1566, 236
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+kunai2
+  rotate: false
+  xy: 1351, 340
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+languageButton
+  rotate: false
+  xy: 1478, 201
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+lastscore
+  rotate: false
+  xy: 603, 201
+  size: 13, 13
+  split: 5, 6, 5, 6
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1369, 391
+  size: 195, 118
+  orig: 195, 118
+  offset: 0, 0
+  index: -1
+markerButton
+  rotate: false
+  xy: 325, 2
+  size: 46, 46
+  split: 26, 0, 0, 0
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+markerButton2
+  rotate: false
+  xy: 1344, 214
+  size: 46, 46
+  split: 0, 26, 0, 0
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+mstage1
+  rotate: false
+  xy: 585, 216
+  size: 43, 93
+  orig: 43, 93
+  offset: 0, 0
+  index: -1
+mstage10
+  rotate: false
+  xy: 1887, 280
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+mstage2
+  rotate: false
+  xy: 630, 234
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+mstage3
+  rotate: false
+  xy: 380, 77
+  size: 54, 109
+  orig: 54, 109
+  offset: 0, 0
+  index: -1
+mstage4
+  rotate: false
+  xy: 574, 135
+  size: 37, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+mstage5
+  rotate: false
+  xy: 436, 91
+  size: 74, 108
+  orig: 74, 108
+  offset: 0, 0
+  index: -1
+mstage6
+  rotate: false
+  xy: 512, 115
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+mstage7
+  rotate: false
+  xy: 1845, 258
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+mstage8
+  rotate: false
+  xy: 1948, 269
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+mstage9
+  rotate: false
+  xy: 1440, 206
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+next
+  rotate: false
+  xy: 1659, 236
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 1699, 237
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+plannerColoredDeformed3
+  rotate: false
+  xy: 1887, 250
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+restart
+  rotate: false
+  xy: 1540, 232
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+resume
+  rotate: false
+  xy: 1679, 236
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+rope5
+  rotate: false
+  xy: 755, 293
+  size: 8, 16
+  split: 0, 8, 7, 7
+  pad: -1, -1, 7, 7
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 291, 179
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+smokeIcon2
+  rotate: false
+  xy: 1991, 287
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+soundoff
+  rotate: false
+  xy: 1591, 236
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+soundon
+  rotate: false
+  xy: 1615, 236
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+spikes
+  rotate: false
+  xy: 1322, 208
+  size: 20, 154
+  orig: 20, 154
+  offset: 0, 0
+  index: -1
+spoder T4
+  rotate: false
+  xy: 800, 310
+  size: 183, 199
+  orig: 183, 199
+  offset: 0, 0
+  index: -1
+spoder T4 static
+  rotate: false
+  xy: 1521, 258
+  size: 113, 122
+  orig: 113, 122
+  offset: 0, 0
+  index: -1
+spoder-T4
+  rotate: false
+  xy: 985, 310
+  size: 183, 199
+  orig: 183, 199
+  offset: 0, 0
+  index: -1
+spoder-T4-static
+  rotate: false
+  xy: 1636, 258
+  size: 113, 122
+  orig: 113, 122
+  offset: 0, 0
+  index: -1
+tomb
+  rotate: false
+  xy: 2, 179
+  size: 287, 160
+  orig: 287, 160
+  offset: 0, 0
+  index: -1
+touchedOptions
+  rotate: false
+  xy: 1392, 220
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+upgrArrow
+  rotate: false
+  xy: 1515, 230
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+upgrade
+  rotate: false
+  xy: 587, 311
+  size: 87, 36
+  orig: 87, 36
+  offset: 0, 0
+  index: -1
+upgrade2
+  rotate: false
+  xy: 676, 311
+  size: 87, 36
+  orig: 87, 36
+  offset: 0, 0
+  index: -1
+web
+  rotate: false
+  xy: 1344, 282
+  size: 5, 80
+  orig: 5, 80
+  offset: 0, 0
+  index: -1
+webhedge
+  rotate: false
+  xy: 1718, 242
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+webobstacle
+  rotate: false
+  xy: 680, 228
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1

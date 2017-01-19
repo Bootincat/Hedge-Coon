@@ -1,0 +1,164 @@
+
+webcrush.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+webcrush-000
+  rotate: false
+  xy: 1, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-001
+  rotate: false
+  xy: 1, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-002
+  rotate: false
+  xy: 1, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-003
+  rotate: false
+  xy: 226, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-004
+  rotate: false
+  xy: 226, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-005
+  rotate: false
+  xy: 226, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-006
+  rotate: false
+  xy: 451, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-007
+  rotate: false
+  xy: 451, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-008
+  rotate: false
+  xy: 451, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-009
+  rotate: false
+  xy: 676, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-010
+  rotate: false
+  xy: 676, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-011
+  rotate: false
+  xy: 676, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+
+webcrush2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+webcrush-012
+  rotate: false
+  xy: 1, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-013
+  rotate: false
+  xy: 1, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-014
+  rotate: false
+  xy: 1, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-015
+  rotate: false
+  xy: 226, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-016
+  rotate: false
+  xy: 226, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-017
+  rotate: false
+  xy: 226, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-018
+  rotate: false
+  xy: 451, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-019
+  rotate: false
+  xy: 451, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-020
+  rotate: false
+  xy: 676, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1
+webcrush-021
+  rotate: false
+  xy: 676, 1
+  size: 223, 785
+  orig: 223, 785
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+webhedge.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+webhedge-000
+  rotate: false
+  xy: 2, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+webhedge-001
+  rotate: false
+  xy: 2, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+webhedge-002
+  rotate: false
+  xy: 2, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+webhedge-003
+  rotate: false
+  xy: 66, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+webhedge-004
+  rotate: false
+  xy: 66, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+webhedge-005
+  rotate: false
+  xy: 66, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+webhedge-006
+  rotate: false
+  xy: 130, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+webhedge-007
+  rotate: false
+  xy: 130, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+webhedge-008
+  rotate: false
+  xy: 130, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+webhedge-009
+  rotate: false
+  xy: 194, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+webhedge-010
+  rotate: false
+  xy: 194, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
